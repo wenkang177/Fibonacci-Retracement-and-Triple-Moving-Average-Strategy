@@ -1,8 +1,8 @@
-In project 2, I combined Fibonacci Retracement and Triple Moving Average Strategy
-together. Different from the implemented Fibonacci Retracement trading strategy only in
-Project 1 , Triple Moving Average can be used as an identified trend before entry or exit to
-increase the performance of trading. The indicators are integrated into this trading strategy:
-Fibonacci Levels indicator from project 1 and Simple Moving Average(SMA) which is new
+This is the case study of fibonacci retracement and triple average moving .
+
+I combined Fibonacci Retracement and Triple Moving Average Strategy
+together. Different from the implemented Fibonacci Retracement trading strategy only. Triple Moving Average can be used as an identified trend before entry or exit toincrease the performance of trading. The indicators are integrated into this trading strategy:
+Fibonacci Levels indicator and Simple Moving Average(SMA) which is new
 for our group and ATR (Average True Range) as a cut loss indicator.
 The Simple Moving Average (SMA) is a technical indicator that can be used to
 determine whether an asset's price will continue or reverse a bull or bear trend. It calculates the
